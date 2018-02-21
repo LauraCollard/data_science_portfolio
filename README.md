@@ -5,6 +5,7 @@
   - predicting Boston housing prices:
   - finding donors for *CharityML*:
   - credit card fraud detection:
+  - predicting whether a mushroom is poisonous: 
 
 
 ### Natural Language Processing
