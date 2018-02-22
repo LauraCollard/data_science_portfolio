@@ -10,4 +10,4 @@
 
 ### Natural Language Processing
 
-### Exploratory analysis
+### Data analysis and visualisation
