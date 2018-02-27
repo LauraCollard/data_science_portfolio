@@ -7,9 +7,12 @@
   - [Detecting credit card fraud](https://github.com/LauraCollard/data_science_portfolio/tree/master/credit_card_fraud):
   - [Predicting whether a mushroom is poisonous](https://github.com/LauraCollard/data_science_portfolio/tree/master/poisonous_mushrooms): 
 
-### Deep learning projects:
-- computer vision
-- NLP
+### Deep learning
+- unstructured data:
+  - computer vision
+  - NLP
+  - speech recognition?
+- structured data (ads, search etc)
 
 ### Natural Language Processing
 
