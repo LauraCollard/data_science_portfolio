@@ -7,12 +7,16 @@
   - [Detecting credit card fraud](https://github.com/LauraCollard/data_science_portfolio/tree/master/credit_card_fraud):
   - [Predicting whether a mushroom is poisonous](https://github.com/LauraCollard/data_science_portfolio/tree/master/poisonous_mushrooms): 
 
+Toolkit: Python, Scikit-learn, Seaborn
+
 ### Deep learning
 - unstructured data:
   - computer vision
   - NLP
   - speech recognition?
 - structured data (ads, search etc)
+
+Toolkit: Python, TensorFlow
 
 ### Natural Language Processing
 
