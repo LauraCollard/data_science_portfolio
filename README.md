@@ -10,6 +10,8 @@
 Toolkit: Python, Scikit-learn, Seaborn
 
 ### Deep learning
+- Predicting Iris species:
+
 - unstructured data:
   - computer vision
   - NLP
