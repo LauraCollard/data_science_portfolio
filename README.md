@@ -1,25 +1,16 @@
 # Data Science portfolio
 
-### Machine learning
+- [Detecting credit card fraud](https://github.com/LauraCollard/data_science_portfolio/tree/master/credit_card_fraud): training and evaluating how accurately several machine learning algorithms predict instances of credit card fraud.
 
-- [Predicting Boston housing prices](https://github.com/LauraCollard/boston_housing):
-- [Finding donors for *CharityML*](https://github.com/LauraCollard/finding_donors_for_charity):
-- [Detecting credit card fraud](https://github.com/LauraCollard/data_science_portfolio/tree/master/credit_card_fraud):
-- [Predicting whether a mushroom is poisonous](https://github.com/LauraCollard/data_science_portfolio/tree/master/poisonous_mushrooms): 
+- [Deep Learning: predicting Iris species](https://github.com/LauraCollard/deep_learning_iris): using TensorFlow, we build and train a 3-layer neural network that predicts an Iris species with 96.6% accuracy.
 
-Toolkit: Python, Scikit-learn, Seaborn
+- [Predicting Boston housing prices](https://github.com/LauraCollard/boston_housing): using a machine learning model to predict house prices in the Boston metropolitan area. Identifying the optimal price for clients wishing to sell their home.
 
-### Deep learning
-- Predicting Iris species:
+- [Finding donors for *CharityML*](https://github.com/LauraCollard/finding_donors_for_charity): in this project, we compare several machine learning algorithms in order to accurately model individuals' income and predict who is likely to become a donor.
 
-- unstructured data:
-  - computer vision
-  - NLP
-  - speech recognition?
-- structured data (ads, search etc)
+- [Mushrooms: safe to eat or deadly?](https://github.com/LauraCollard/data_science_portfolio/tree/master/poisonous_mushrooms): predicting whether mushrooms are edible or poisonous using different machine learning models.
 
-Toolkit: Python, TensorFlow
+- [Exploratory analysis: Titanic dataset](https://github.com/LauraCollard/titanic_expl_analysis): using Seaborn visualisations, this project explores the passengers' details and reveals which factors helped some of them survive the shipwreck.
 
-### Natural Language Processing
 
-### Data analysis and visualisation
+**Toolkit:** Python, Scikit-learn, Pandas, TensorFlow, Matplotlib, Seaborn
