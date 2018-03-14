@@ -1,5 +1,7 @@
 # Data Science portfolio
 
+Here is a selection of projects I have recently completed. Feel free to have a look around! Alternatively, the portfolio is also available to view on my [website](https://lauracollard.github.io).
+
 - [Detecting credit card fraud](https://github.com/LauraCollard/data_science_portfolio/tree/master/credit_card_fraud): training and evaluating how accurately several machine learning algorithms predict instances of credit card fraud.
 
 - [Deep Learning: predicting Iris species](https://github.com/LauraCollard/deep_learning_iris): using TensorFlow, we build and train a 3-layer neural network that predicts an Iris species with 96.6% accuracy.
