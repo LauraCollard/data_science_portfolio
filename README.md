@@ -4,7 +4,7 @@ Here is a selection of projects I have recently completed. Feel free to have a l
 
 - [Detecting credit card fraud](https://github.com/LauraCollard/data_science_portfolio/tree/master/credit_card_fraud): training and evaluating how accurately several machine learning algorithms predict instances of credit card fraud.
 
-- [Deep Learning: predicting Iris species](https://github.com/LauraCollard/deep_learning_iris): using TensorFlow, we build and train a 3-layer neural network that predicts an Iris species with 96.6% accuracy.
+- [Deep Learning: predicting Iris species](https://github.com/LauraCollard/deep_learning_iris): using TensorFlow, we build and train a 3-layer neural network that predicts Iris species.
 
 - [Predicting Boston housing prices](https://github.com/LauraCollard/boston_housing): using a machine learning model to predict house prices in the Boston metropolitan area. Identifying the optimal price for clients wishing to sell their home.
 
