@@ -1,5 +1,5 @@
 
-# Detecting credit card fraud
+# Credit card fraud: improving detection with Deep Learning
 
 In this project, we predict instances of credit card fraud using different strategies. The objective is of course to correctly detect all fraudulent transactions without issuing false positives. We use the following models:
 
