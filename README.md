@@ -2,7 +2,7 @@
 
 Here is a selection of projects I have recently completed. Feel free to have a look around! Alternatively, the portfolio is also available to view on my [website](https://lauracollard.github.io).
 
-- [Credit card fraud: improving detection with Deep Learning](https://github.com/LauraCollard/data_science_portfolio/tree/master/credit_card_fraud): comparing different models' performance at predicting instances of credit card fraud. The final model is a 5-layer neural network built with Keras that correctly flags 99.94% of transactions.
+- [Credit card fraud: improving detection with Deep Learning](https://github.com/LauraCollard/data_science_portfolio/tree/master/credit_card_fraud): comparing different models performance at predicting instances of card fraud. The final model is a 5-layer neural network built with Keras that correctly classifies 99.94% of transactions.
 
 - [Deep Learning: predicting Iris species](https://github.com/LauraCollard/deep_learning_iris): using TensorFlow, we build and train a 3-layer neural network that predicts Iris species.
 
