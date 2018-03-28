@@ -19,7 +19,7 @@ Here is a selection of projects I have recently completed. Feel free to have a l
 
 - Natural Language Processing projects:
 
-  -[Detecting SMS spam](): predicting whether a text message is spam or legitimate with different models. The best performance is obtained with a Multinomial Naive Bayes model and a CountVectorizer approach.
+  - [Detecting SMS spam](): predicting whether a text message is spam or legitimate with different models. The best performance is obtained with a Multinomial Naive Bayes model and a CountVectorizer approach.
   
 
 **Toolkit:** Python, Keras, Scikit-learn, Pandas, NLTK, TensorFlow, Matplotlib, Seaborn
