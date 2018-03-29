@@ -6,8 +6,6 @@ Here is a selection of projects I have recently completed. Feel free to have a l
 
   - [Credit card fraud: improving detection with Deep Learning](https://github.com/LauraCollard/data_science_portfolio/tree/master/credit_card_fraud): comparing different models performance at predicting instances of card fraud. The final model is a 5-layer Neural Network built with Keras that correctly classifies 99.94% of transactions.
 
-  - [Deep Learning: predicting Iris species](https://github.com/LauraCollard/deep_learning_iris): using TensorFlow, we build and train a 3-layer Neural Network that predicts Iris species.
-
   - [Predicting Boston housing prices](https://github.com/LauraCollard/boston_housing): using a Machine Learning model to predict house prices in the Boston metropolitan area. Identifying the optimal price for clients wishing to sell their home.
 
   - [Finding donors for *CharityML*](https://github.com/LauraCollard/finding_donors_for_charity): in this project, we compare several Machine Mearning algorithms in order to accurately model individuals' income and predict who is likely to become a donor.
@@ -19,7 +17,7 @@ Here is a selection of projects I have recently completed. Feel free to have a l
 
 - Natural Language Processing projects:
 
-  - [Detecting SMS spam](): predicting whether a text message is spam or legitimate with different models. The best performance is obtained with a Multinomial Naive Bayes model and a CountVectorizer approach.
+  - [Detecting spam text messages](https://github.com/LauraCollard/data_science_portfolio/tree/master/nlp_spam_sms): predicting whether a text message is spam or legitimate with different models. The best performance is obtained with a Multinomial Naive Bayes model and a CountVectorizer approach.
   
 
 **Toolkit:** Python, Keras, Scikit-learn, Pandas, NLTK, TensorFlow, Matplotlib, Seaborn
