@@ -1,4 +1,5 @@
-# Detecting SMS spam
+# Detecting spam text messages
+
 The aim of this Natural Language Processing project is to predict whether a text message is spam or legitimate. We take the following steps:
 - preprocessing: 
     - making text lowercase
