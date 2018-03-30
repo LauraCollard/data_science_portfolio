@@ -17,6 +17,8 @@ Here is a selection of projects I have recently completed. Feel free to have a l
 
 - Natural Language Processing projects:
 
+  - [Sentiment analysis: US airlines on Twitter](https://github.com/LauraCollard/data_science_portfolio/tree/master/nlp_sentiment_airlines): using a pre-trained GloVe embedding, we compare how well a bidirectional GRU and a birectional LSTM predict the sentiment of tweets regarding US airlines.
+
   - [Detecting spam text messages](https://github.com/LauraCollard/data_science_portfolio/tree/master/nlp_spam_sms): predicting whether a text message is spam or legitimate with different models. The best performance is obtained with a Multinomial Naive Bayes model and a CountVectorizer approach.
   
 
