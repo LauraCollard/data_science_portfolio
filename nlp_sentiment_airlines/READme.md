@@ -4,4 +4,4 @@ In this Natural Language Processing project, we predict the sentiment of tweets 
 
 The dataset we use is available [here](https://www.kaggle.com/bertcarremans/predicting-sentiment-with-text-features/data). It consists of 11,541 tweets scraped in February 2015 categorised as negative or positive.
 
-**Toolkit:** Python, Keras, RNN, GRU, LSTM
+**Toolkit:** Python, NLP, Keras, GloVe word vectors, RNN, bidirectional GRU, bidirectional LSTM
