@@ -22,4 +22,4 @@ Here is a selection of projects I have recently completed. Feel free to have a l
   - [Detecting spam text messages](https://github.com/LauraCollard/data_science_portfolio/tree/master/nlp_spam_sms): predicting whether a text message is spam or legitimate with different models. The best performance is obtained with a Multinomial Naive Bayes model and a CountVectorizer approach.
   
 
-**Toolkit:** Python, Keras, TensorFlow, Scikit-learn, Pandas, NLTK, TensorFlow, Matplotlib, Seaborn
+**Toolkit:** Python, Keras, Scikit-learn, Pandas, NLTK, TensorFlow, Matplotlib, Seaborn
