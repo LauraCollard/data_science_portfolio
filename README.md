@@ -4,7 +4,7 @@ Here is a selection of projects I have recently completed. Feel free to have a l
 
 - Machine Learning projects:
 
-  - [Credit card fraud: improving detection with Deep Learning](https://github.com/LauraCollard/data_science_portfolio/tree/master/credit_card_fraud): comparing different models performance at predicting instances of card fraud. The final model is a 5-layer Neural Network built with Keras that correctly classifies 99.93% of transactions.
+  - [Credit card fraud: improving detection with Deep Learning](https://github.com/LauraCollard/data_science_portfolio/tree/master/credit_card_fraud): comparing different models performance at predicting instances of card fraud. The final model is a 5-layer Neural Network built with Keras that correctly classifies 99.96% of transactions.
 
   - [Predicting Boston housing prices](https://github.com/LauraCollard/boston_housing): using a Machine Learning model to predict house prices in the Boston metropolitan area. Identifying the optimal price for clients wishing to sell their home.
 
